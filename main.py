@@ -1,14 +1,14 @@
 import numpy as np
 import torch
 
-
-import numpy as np
+# Define perceptron class
 class Perceptron:
     """_summary_
     """
     def __init__(self):
         pass
 
+# inistantiate perceptron class
 perc = Perceptron()
 
 
